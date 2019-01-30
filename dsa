@@ -1,0 +1,36 @@
+[33mcommit f5fb475d70c15c143492b141ddf58cd9a2c815a8[m[33m ([m[1;36mHEAD -> [m[1;32mbranch1frommaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/branch1frommaster[m[33m, [m[1;32mmaster[m[33m, [m[1;32mb1[m[33m)[m
+Author: VERMA Deepak <deepak.verma@soprasteria.com>
+Date:   Wed Jan 30 22:23:43 2019 +0530
+
+    deepak commit to master
+
+[33mcommit 84127cec14ef408bec91a4292331ba3b936f1533[m
+Merge: 7aac533 3f7401d
+Author: VERMA Deepak <deepak.verma@soprasteria.com>
+Date:   Wed Jan 30 22:12:49 2019 +0530
+
+    sadasdsa
+
+[33mcommit 3f7401d84ff8172823f5e4d035144639887f1850[m
+Author: VERMA Deepak <deepak.verma@soprasteria.com>
+Date:   Wed Jan 30 21:41:48 2019 +0530
+
+    checked in 1 testdata
+
+[33mcommit 7aac533be4d9398d423c45a6bde06f2904e1ba27[m
+Author: VERMA Deepak <deepak.verma@soprasteria.com>
+Date:   Wed Jan 30 21:35:38 2019 +0530
+
+    my 30jan2019 commit
+
+[33mcommit 864bd3d550fda634eb4c77ea377f81d6f697a653[m
+Author: VERMA Deepak <deepak.verma@soprasteria.com>
+Date:   Wed Jan 16 23:39:22 2019 +0530
+
+    Added new home component and edit in app.module file
+
+[33mcommit e7df5683995775f79d2130bc35d1071c020d228d[m
+Author: VERMA Deepak <deepak.verma@soprasteria.com>
+Date:   Wed Jan 16 15:59:35 2019 +0530
+
+    initial commit
